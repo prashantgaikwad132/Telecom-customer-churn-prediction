@@ -29,7 +29,7 @@ Dataset :
  <li>Final Test Data Predictions</li>
  <li>Saving the OutPut</li>
 
-
+<ul>
 Results : Random Forest accuracy: 94.87 %
           Logisitc Regression accuracy: 83.68 %
           KNN accuracy: 89.45 %
