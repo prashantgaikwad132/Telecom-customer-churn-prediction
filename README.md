@@ -1,5 +1,6 @@
 # Telecom customer churn prediction using Machine Learning (Python)
-This project is about predicting whether a customer will change telecommunications provider or not.This problem statement is targeted at enabling churn reduction using analytics concepts and predicting new churn on test dataset.
+This project is about predicting whether a customer will change telecommunications provider or not.
+This problem statement is targeted at enabling churn reduction using analytics concepts and predicting new churn on test dataset.
 
 The Churn (loss of customers to competition) is a problem for companies because it is more expensive to acquire a new customer than to keep your existing one from leaving.
 
