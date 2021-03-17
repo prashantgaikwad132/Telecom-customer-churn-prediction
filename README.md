@@ -32,6 +32,9 @@ Dataset :
 
 ## Results :  Random Forest accuracy: 94.87 % , Logisitc Regression accuracy: 83.68 %, KNN accuracy: 89.45 %, Naive Bayes accuracy: 80.97 %
 
+<ol>
+ <li>roc_auc_score = 0.90</li>
+
 ## Ways to Reduce Customer Churn
 
 1. Focussing attention towards your better customers
