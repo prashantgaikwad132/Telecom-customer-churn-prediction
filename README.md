@@ -30,10 +30,16 @@ Dataset :
  <li>Saving the OutPut</li>
 
 
-## Results :  Random Forest accuracy: 94.87 % , Logisitc Regression accuracy: 83.68 %, KNN accuracy: 89.45 %, Naive Bayes accuracy: 80.97 %
+## Results:  
+
 
 <ol>
+ <li>Random Forest accuracy: 94.87 %</li>
+ <li>Logisitc Regression accuracy: 83.68 %</li>
+ <li> KNN accuracy: 89.45 %</li>
+ <li>Naive Bayes accuracy: 80.97 %</li>
  <li>roc_auc_score = 0.90</li>
+
 
 ## Ways to Reduce Customer Churn
 
