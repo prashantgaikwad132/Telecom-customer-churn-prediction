@@ -40,11 +40,11 @@ Dataset :
  <li>Naive Bayes accuracy: 80.97 %</li>
  <li>roc_auc_score = 0.90</li>
   
-## Checking the distribution of the target variable on train data:
+## Checking the distribution of the target variable on train data (Given):
 
 <img src = 'Distribution of Customer Churning on train data.png' width = "400" height = "300"/>
 
-## Checking the distribution of the target variable on test data:
+## Checking the distribution of the target variable on test data (Predicted):
 
 <img src = 'Distribution of Customer Churning on test data.png' width = "400" height = "300"/>
 
