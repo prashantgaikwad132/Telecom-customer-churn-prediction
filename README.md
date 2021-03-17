@@ -29,11 +29,8 @@ Dataset :
  <li>Final Test Data Predictions</li>
  <li>Saving the OutPut</li>
 
-<ul>
-Results : Random Forest accuracy: 94.87 %
-          Logisitc Regression accuracy: 83.68 %
-          KNN accuracy: 89.45 %
-          Naive Bayes accuracy: 80.97 %
+
+## Results :  Random Forest accuracy: 94.87 % , Logisitc Regression accuracy: 83.68 %, KNN accuracy: 89.45 %, Naive Bayes accuracy: 80.97 %
 
 ## Ways to Reduce Customer Churn
 
