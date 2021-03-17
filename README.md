@@ -44,7 +44,7 @@ Dataset :
 
 <img src = 'Distribution of Customer Churning on train data.png' width = "400" height = "300"/>
 
-## Checking the distribution of the target variable on train data:
+## Checking the distribution of the target variable on test data:
 
 <img src = 'Distribution of Customer Churning on test data.png' width = "400" height = "300"/>
 
