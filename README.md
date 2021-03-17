@@ -39,6 +39,10 @@ Dataset :
  <li> KNN accuracy: 89.45 %</li>
  <li>Naive Bayes accuracy: 80.97 %</li>
  <li>roc_auc_score = 0.90</li>
+  
+## Checking the distribution of the target variable on train data:
+
+<img src = 'Distribution of Customer Churning on test data.png' width = "400" height = "300"/>
 
 
 ## Ways to Reduce Customer Churn
