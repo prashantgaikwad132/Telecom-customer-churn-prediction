@@ -53,7 +53,7 @@ Dataset :
 
 ## Ways to Reduce Customer Churn
 
-#### 1. Focussing attention towards your better customers
+#### 1. Focussing attention towards better customers
 
 Instead of spending huge amount of resources to try to incentivize the customers who are likely to churn based on customer behavior analysis, it is better for the company to spend those resources on it’s existing customers. This will not only ensure customer loyalty but will also create meaningful long term relationship with those customers.
 
